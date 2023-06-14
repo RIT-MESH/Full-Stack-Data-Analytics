@@ -18,3 +18,4 @@ Data analytics is the process of gathering, transforming, and organising informa
 -> **Python**\
 -> **Excel**
 
+The course link is https://ineuron.ai/course/Full-Stack-Data-Analytics-2.0?source=search
